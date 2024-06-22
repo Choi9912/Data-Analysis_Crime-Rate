@@ -19,5 +19,10 @@
 # 분석 결과
 - 1.전국 범죄율 분석을 통한 지역 설정
 - 2.범죄 발생 장소 분석을 통한 지역 설정
+- ![데이터_범죄율](https://github.com/Choi9912/Datamining-project/assets/76863081/ca3c7cb4-659b-4f95-ac78-52b4c740d176)
+- ![데이터_세대수](https://github.com/Choi9912/Datamining-project/assets/76863081/9239e9ae-fd9c-4379-8eaa-4ae6b6f2e506)
 - 3.안심 비상벨 및 파출소 현황 파악을 통한 신규 방범 장치 설치
+- ![데이터_안심 비상벨 및 파출소 현황 파악](https://github.com/Choi9912/Datamining-project/assets/76863081/abdc0976-fcd2-40cd-9e72-f10ef2478446)
 - 4.결과 분석 및 타 지역과의 비교
+
+
